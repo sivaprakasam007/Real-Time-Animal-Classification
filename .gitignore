@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Uploaded/generated files
+uploads/
+*.log
+
+# Large files (optional)
+raw-img/
+raw-img.zip
+zoo_bundle.pth
+
+# OS / Editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.pt
+*.pth
